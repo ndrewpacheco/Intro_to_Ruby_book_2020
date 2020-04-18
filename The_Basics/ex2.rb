@@ -12,3 +12,4 @@ tens = ((num % 1000) % 100 ) / 10
 ones = ((num % 1000) % 100 ) % 10
 
 puts "#{thousands} #{hundreds} #{tens} #{ones}"
+
