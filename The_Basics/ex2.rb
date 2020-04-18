@@ -4,6 +4,8 @@
 
 num = 1234
 
+
+
 thousands = num / 1000 
 hundreds = (num % 1000) / 100
 tens = ((num % 1000) % 100 ) / 10 
